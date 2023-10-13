@@ -11,13 +11,14 @@ Figma：https://www.figma.com/file/0VZm25Amx904e5eb5B89YX/VEGE-CREATOR?type=desi
 
 ## Requirement
 フロントエンド
-React
-
-バックエンド
-Django
+* React
 
 DB
-ポスグレ（mySQL）
+* ポスグレ（mySQL）
+
+API
+* FastAPI
+
 
 ## Usage
 
